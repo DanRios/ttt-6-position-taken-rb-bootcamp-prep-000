@@ -3,6 +3,4 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 number = 4
 
 def position_taken (board, index)
-  if board[index] == " "
-    false
   end
