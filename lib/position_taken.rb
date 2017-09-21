@@ -2,7 +2,7 @@
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 number = 4
 
-def position_taken? (board, index)
+def position_taken? (board,index)
   if board[index] == " " || board[index] == ""
     return false
   end
